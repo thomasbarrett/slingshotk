@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "fcntl.h": "c",
+        "fcntl-linux.h": "c",
+        "assert.h": "c",
+        "bitset.h": "c",
+        "stddef.h": "c",
+        "stdint.h": "c",
+        "ioctl.h": "c",
+        "string.h": "c",
+        "fs.h": "c",
+        "error.h": "c",
+        "errno.h": "c",
+        "util.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "array.h": "c"
+    }
+}
